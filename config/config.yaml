@@ -8,8 +8,8 @@ DATA:
 OUTPUT:
   viseme_clips_dir: C:/Users/nandita/lipgans/viseme_clips   # required but can be dummy
   cropped_dir: C:/Users/nandita/lipgans/cropped             # required but can be dummy
-  models_root: C:/Users/nandita/lipgans/saved_gans         # folder with viseme_0 ... viseme_9
-  merge_dir: C:/Users/nandita/lipgans/examples             # where GIFs/MP4s/frames will be saved
+  models_root: C:\Users\meet golani\Documents\GitHub\speechsight\saved_gans         # folder with viseme_0 ... viseme_9
+  merge_dir: C:\Users\meet golani\Documents\GitHub\speechsight\example            # where GIFs/MP4s/frames will be saved
 
 TRAINING:
   target_frames: 3
