@@ -1,4 +1,4 @@
-#  LipGANS: Text-to-Viseme GAN Framework
+#  SpeechSight: Text-to-Viseme GAN Framework
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
@@ -8,7 +8,7 @@
 
 Traditional lip-syncing methods rely heavily on audio to guide mouth movements. But what happens when audio is missing, corrupted, or unavailable—such as in dubbing, translation, or accessibility scenarios?
 
-**LipGANs** is my attempt to solve this problem by generating realistic lip movements **without using audio at all**. Instead, it leverages **GANs (Generative Adversarial Networks)** to map text or phoneme sequences directly into lip image frames. This makes the project unique and versatile, since no fixed timestamps or speech waveforms are required.
+**SpeechSight** is my attempt to solve this problem by generating realistic lip movements **without using audio at all**. Instead, it leverages **GANs (Generative Adversarial Networks)** to map text or phoneme sequences directly into lip image frames. This makes the project unique and versatile, since no fixed timestamps or speech waveforms are required.
 
 ---
 
@@ -60,7 +60,7 @@ This project showcases the potential of **generative AI** for:
 ## 📂 Repository Structure
 
 ```bash
-lipgans/
+SpeechSight/
 ├─ README.md                # Project documentation
 ├─ requirements.txt         # Python dependencies
 ├─ .gitignore               # Git ignore rules
