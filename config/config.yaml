@@ -1,5 +1,6 @@
 # config.yaml for inference with saved GANs
 
+
 DATA:
   raw_videos_dir: C:/Users/nandita/lipgans/raw_videos   # required by config.py but can be dummy
   mlf_path: C:/Users/nandita/lipgans/labels.mlf       # required by config.py but can be dummy
