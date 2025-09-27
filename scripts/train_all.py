@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 Train GANs for all viseme classes (or a subset).
 
