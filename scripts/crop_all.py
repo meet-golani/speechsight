@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 Crop mouth ROI from per-viseme clips and save 64x64 PNG frames.
 
