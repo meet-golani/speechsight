@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 Generate a GIF and MP4 for a single word using trained viseme GANs.
 
