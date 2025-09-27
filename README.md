@@ -1,4 +1,4 @@
-#  LipGANS: Text-to-Viseme GAN Framework
+#  SpeechSight: Text-to-Viseme GAN Framework
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
